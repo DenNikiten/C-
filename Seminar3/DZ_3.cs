@@ -51,22 +51,22 @@
 // }
 
 // Console.Write("Input x1: ");
-// int numX1 = Convert.ToInt32(Console.ReadLine());
+// double numX1 = Convert.ToDouble(Console.ReadLine());
 
 // Console.Write("Input y1: ");
-// int numY1 = Convert.ToInt32(Console.ReadLine());
+// double numY1 = Convert.ToDouble(Console.ReadLine());
 
 // Console.Write("Input z1: ");
-// int numZ1 = Convert.ToInt32(Console.ReadLine());
+// double numZ1 = Convert.ToDouble(Console.ReadLine());
 
 // Console.Write("Input x2: ");
-// int numX2 = Convert.ToInt32(Console.ReadLine());
+// double numX2 = Convert.ToDouble(Console.ReadLine());
 
 // Console.Write("Input y2: ");
-// int numY2 = Convert.ToInt32(Console.ReadLine());
+// double numY2 = Convert.ToDouble(Console.ReadLine());
 
 // Console.Write("Input z2: ");
-// int numZ2 = Convert.ToInt32(Console.ReadLine());
+// double numZ2 = Convert.ToDouble(Console.ReadLine());
 
 // Console.WriteLine(Math.Round(DistanceSpace(numX1, numY1, numZ1, numX2, numY2, numZ2), 2));
 
